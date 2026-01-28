@@ -1,0 +1,5 @@
+{
+  "name": "外勤助手",
+  "description": "一款功能强大、高对比度的外勤工作管理工具，用于跟踪站点访问和任务完成情况，支持离线本地存储。",
+  "requestFramePermissions": []
+}
